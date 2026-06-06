@@ -1,4 +1,4 @@
-# ExtraGear 更多装备
+# ExtraGear 更多装备 [魔改版]
 
 ExtraGear 是现存的最早一批 Slimefun 附属插件之一。  
 该附属向 Slimefun 添加了由各种由 Slimefun 的金属锭/合金制成的武器与防具。
@@ -31,3 +31,7 @@ ExtraGear 是现存的最早一批 Slimefun 附属插件之一。
 
 ## 开源
 本项目以[GPL-3.0协议](/LICENSE)开源。
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=happy66dev/ExtraGear&type=Date)](https://star-history.com/#happy66dev/ExtraGear&Date)
